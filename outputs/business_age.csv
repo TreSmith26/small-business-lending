@@ -1,0 +1,6 @@
+BusinessAge,loans,pct_of_loans,avg_loan,avg_rate,pct_collateralized,pct_franchise
+Existing (2+ years),184576,54.6,436853.0,9.0,78.6,3.8
+New (2 years or less),56540,16.7,453159.0,9.03,71.4,9.7
+Startup,56152,16.6,530192.0,8.45,94.0,40.4
+Change of Ownership,37097,11.0,1129553.0,7.88,97.7,17.3
+Unanswered,3869,1.1,304120.0,8.23,56.9,8.6
